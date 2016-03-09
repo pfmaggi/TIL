@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -36,7 +36,7 @@ _3 TILs and counting..._
 - [Default Screenshot Location](mac/default-screenshot-location.md)
 
 ### EnterpriseBrowser
-
+- [Read UPC Supplementals](eb/upc-supplementals.md)
 
 ### NPM
 
