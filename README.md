@@ -18,6 +18,7 @@ _4 TILs and counting..._
 * [NPM](#npm)
 * [RhoMobile](#rhomobile)
 * [Git](#git)
+* [Android](#android)
 * [Clojure](#clojure)
 * [JavaScript](#javascript)
 * [tmux](#tmux)
@@ -29,18 +30,22 @@ _4 TILs and counting..._
 
 ### emacs
 
-- [ido-mode](emacs/ido-mode.md)
+- [ido-mode](emacs/ido_mode.md)
 
 ### Mac
 
-- [Default Screenshot Location](mac/default-screenshot-location.md)
+- [Default Screenshot Location](mac/default_screenshot_location.md)
 
 ### EnterpriseBrowser
-- [Read UPC Supplementals](eb/upc-supplementals.md)
+- [Read UPC Supplementals](eb/upc_supplementals.md)
 
 ### NPM
 
-- [List installed packages](npm/list-packages.md)
+- [List installed packages](npm/list_packages.md)
+
+### Android
+
+- [Android Studio Live Templates](android/live_template.md)
 
 ### RhoMobile
 
