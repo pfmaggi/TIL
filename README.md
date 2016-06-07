@@ -6,11 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-<<<<<<< HEAD
-_7 TILs and counting..._
-=======
-_6 TILs and counting..._
->>>>>>> f6ede4b5b37fa6b4b47bdd0c1f89b872f52abf2c
+_8 TILs and counting..._
 
 ---
 
