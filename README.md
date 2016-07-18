@@ -50,6 +50,7 @@ _9 TILs and counting..._
 - [Android Studio Live Templates](android/live_template.md)
 - [Set Android Display auto-rotate from adb](android/auto_rotate.md)
 - [Get the keyset of a bundle object](android/get_bundle_keyset.md)
+- [AfW: Access SD card data from application running in the work profile](android/afw_sdcard.md)
 
 ### RhoMobile
 
