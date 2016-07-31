@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _13 TILs and counting..._
 * [Ruby](#ruby)
 * [Web](#web)
 * [STM32](#stm32)
+* [Linux](#linux)
 
 ---
 
@@ -85,6 +86,9 @@ _13 TILs and counting..._
 ### STM32
 - [Use stlink on OS X Yosemite](stm32/stlink_osx.md)
 
+
+### linux
+- [Install ArchLinux on a MacBook 2007](linux/archlinux_mac2007.md)
 
 ## About
 
