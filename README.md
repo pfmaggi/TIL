@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
@@ -54,6 +54,7 @@ _14 TILs and counting..._
 - [Get the keyset of a bundle object](android/get_bundle_keyset.md)
 - [AfW: Access SD card data from application running in the work profile](android/afw_sdcard.md)
 - [adb install options](android/adb_install.md)
+- [Gradle Properties file](android/gradle_properties.md)
 
 ### RhoMobile
 
