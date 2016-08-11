@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -34,6 +34,7 @@ _16 TILs and counting..._
 ### emacs
 
 - [ido-mode](emacs/ido_mode.md)
+- [SpaceMacs](emacs/spacemacs.md)
 
 ### Mac
 
