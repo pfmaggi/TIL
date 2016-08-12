@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
@@ -40,6 +40,7 @@ _17 TILs and counting..._
 
 - [Default Screenshot Location](mac/default_screenshot_location.md)
 - [Bash Completition with HomeBrew](mac/bash_completition.md)
+- [Command line airport](mac/airport.md)
 
 ### EnterpriseBrowser
 - [Read UPC Supplementals](eb/upc_supplementals.md)
