@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -93,6 +93,8 @@ _18 TILs and counting..._
 
 ### linux
 - [Install ArchLinux on a MacBook 2007](linux/archlinux_mac2007.md)
+- [ArchLinux Maintenance](linux/al_maintenance.md)
+- [Installing Hugo on ArchLinux](linux/al_hugo.md)
 
 ## About
 

@@ -34,17 +34,26 @@ My MacBook is using a Broadcom BCM4321 WiFi card, don't know why but the module 
 In this case the issue is installing the b43-firmware package that can be find in the [AUR archive](https://aur.archlinux.org/packages/b43-firmware/), to do this, I've taken some informations on interned on [how to install an AUR package](https://bbs.archlinux.org/viewtopic.php?id=93793).  
 At the end is really:
 
-    - Download the package:
-      `curl https://aur.archlinux.org/cgit/aur.git/snapshot/b43-firmware.tar.gz -O`
-    - unpack it
-      `tar xzvf b43-firmware.tar.gz`
-    - build the package
-      `cd b43-firmware`
-      `makepkg -s`
-    - install it
-      `sudo pacman -U /path/to/pkg.tar.xz`
-    - configure the network
-      `sudo wifi-menu`
+- Download the package:
+
+    curl https://aur.archlinux.org/cgit/aur.git/snapshot/b43-firmware.tar.gz -O
+
+- unpack it
+
+    tar xzvf b43-firmware.tar.gz
+
+- build the package
+
+    cd b43-firmware
+    makepkg -s
+
+- install it
+
+    sudo pacman -U /path/to/pkg.tar.xz
+    
+- configure the network
+
+    sudo wifi-menu
 
 ## Other issues that I still have to investigate
 
