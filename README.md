@@ -41,6 +41,7 @@ _19 TILs and counting..._
 - [Default Screenshot Location](mac/default_screenshot_location.md)
 - [Bash Completition with HomeBrew](mac/bash_completition.md)
 - [Command line airport](mac/airport.md)
+- [Python3](mac/python3.md)
 
 ### EnterpriseBrowser
 - [Read UPC Supplementals](eb/upc_supplementals.md)
