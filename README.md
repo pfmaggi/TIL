@@ -42,6 +42,7 @@ _20 TILs and counting..._
 - [Bash Completition with HomeBrew](mac/bash_completition.md)
 - [Command line airport](mac/airport.md)
 - [Python3](mac/python3.md)
+- [SHA256](mac/sha256.md)
 
 ### EnterpriseBrowser
 - [Read UPC Supplementals](eb/upc_supplementals.md)
