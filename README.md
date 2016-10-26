@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_20 TILs and counting..._
+_23 TILs and counting..._
 
 ---
 
@@ -59,6 +59,7 @@ _20 TILs and counting..._
 - [AfW: Access SD card data from application running in the work profile](android/afw_sdcard.md)
 - [adb install options](android/adb_install.md)
 - [Gradle Properties file](android/gradle_properties.md)
+- [MC18 Android KK v4.4.4 - hide/show Navigation Bar](android/mc18_toggle_navbar.md)
 
 ### RhoMobile
 
