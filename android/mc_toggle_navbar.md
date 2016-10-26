@@ -1,4 +1,4 @@
-# Toggling MC18 Navigazion (and Status) Bar visible state 
+# Toggling MC18 Navigation (and Status) Bar visible state 
 
 MC18 is the only Zebra Android mobile computer (at least till now) that uses a Navigation bar instead of phisycal buttons for the back and home.  
 This is the first device where it makes sense to use [Android immersive mode](https://developer.android.com/samples/ImmersiveMode/index.html)!
