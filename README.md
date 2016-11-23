@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
@@ -43,6 +43,7 @@ _23 TILs and counting..._
 - [Command line airport](mac/airport.md)
 - [Python3](mac/python3.md)
 - [SHA256](mac/sha256.md)
+- [FixBrewXcode](mac/FixBrewXcode.md)
 
 ### EnterpriseBrowser
 - [Read UPC Supplementals](eb/upc_supplementals.md)
