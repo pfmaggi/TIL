@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_26 TILs and counting..._
+_27 TILs and counting..._
 
 ---
 
@@ -63,7 +63,7 @@ _26 TILs and counting..._
 - [Gradle Properties file](android/gradle_properties.md)
 - [MC18 Android KK v4.4.4 - hide/show Navigation Bar](android/mc18_toggle_navbar.md)
 - [Android Nougat can have multiple languages supported at the same time](android/polyglot.md)
-
+- [Resources for Material Design](android/material_colors.md)
 ### RhoMobile
 
 
