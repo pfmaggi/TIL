@@ -16,7 +16,6 @@ _27 TILs and counting..._
 * [Mac](#mac)
 * [EnterpriseBrowser](#enterprisebrowser)
 * [NPM](#npm)
-* [RhoMobile](#rhomobile)
 * [Git](#git)
 * [Android](#android)
 * [Clojure](#clojure)
@@ -65,9 +64,6 @@ _27 TILs and counting..._
 - [Android Nougat can have multiple languages supported at the same time](android/polyglot.md)
 - [Resources for Material Design](android/material_colors.md)
 
-### RhoMobile
-
-
 ### Git
 
 
@@ -93,10 +89,8 @@ _27 TILs and counting..._
 - [Disable Select in HTML input and text](web/disable_select.md)
 - [Open Weather API](web/openweather.md)
 
-
 ### STM32
 - [Use stlink on OS X Yosemite](stm32/stlink_osx.md)
-
 
 ### linux
 - [Install ArchLinux on a MacBook 2007](linux/archlinux_mac2007.md)
