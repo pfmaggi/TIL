@@ -64,6 +64,7 @@ _27 TILs and counting..._
 - [MC18 Android KK v4.4.4 - hide/show Navigation Bar](android/mc18_toggle_navbar.md)
 - [Android Nougat can have multiple languages supported at the same time](android/polyglot.md)
 - [Resources for Material Design](android/material_colors.md)
+
 ### RhoMobile
 
 
