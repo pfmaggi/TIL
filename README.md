@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_27 TILs and counting..._
+_28 TILs and counting..._
 
 ---
 
@@ -34,7 +34,7 @@ _27 TILs and counting..._
 
 - [ido-mode](emacs/ido_mode.md)
 - [SpaceMacs](emacs/spacemacs.md)
-- [install](emacs/brew_install.md)
+- [Installing emacs on macOS using brew](emacs/brew_install.md)
 
 ### Mac
 
@@ -63,6 +63,7 @@ _27 TILs and counting..._
 - [MC18 Android KK v4.4.4 - hide/show Navigation Bar](android/mc18_toggle_navbar.md)
 - [Android Nougat can have multiple languages supported at the same time](android/polyglot.md)
 - [Resources for Material Design](android/material_colors.md)
+- [Android for Work name change](android/AfW_no_more.md)
 
 ### Git
 
