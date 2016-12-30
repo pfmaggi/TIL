@@ -99,7 +99,7 @@ _31 TILs and counting..._
 - [Install ArchLinux on a MacBook 2007](linux/archlinux_mac2007.md)
 - [ArchLinux Maintenance](linux/al_maintenance.md)
 - [Installing Hugo on ArchLinux](linux/al_hugo.md)
-- [Android dev tools on Linux Mint](linux/ml_android.md)
+- [Android dev tools on Linux Mint](linux/lm_android.md)
 
 ## About
 
