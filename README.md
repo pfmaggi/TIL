@@ -6,27 +6,28 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_31 TILs and counting..._
+_32 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [emacs](#emacs)
+* [Android](#android)
 * [Mac](#mac)
 * [EnterpriseBrowser](#enterprisebrowser)
-* [NPM](#npm)
 * [Git](#git)
-* [Android](#android)
-* [Clojure](#clojure)
-* [JavaScript](#javascript)
-* [tmux](#tmux)
-* [Vim](#vim)
-* [Go](#go)
-* [Ruby](#ruby)
 * [Web](#web)
 * [STM32](#stm32)
 * [Linux](#linux)
+* [Vim](#vim)
+* [NPM](#npm)
+* [python](#python)
+* [Clojure](#clojure)
+* [JavaScript](#javascript)
+* [Go](#go)
+* [Ruby](#ruby)
+* [tmux](#tmux)
 
 ---
 
@@ -100,6 +101,9 @@ _31 TILs and counting..._
 - [ArchLinux Maintenance](linux/al_maintenance.md)
 - [Installing Hugo on ArchLinux](linux/al_hugo.md)
 - [Android dev tools on Linux Mint](linux/lm_android.md)
+
+### python
+- [Resources](python/resources.md)
 
 ## About
 
