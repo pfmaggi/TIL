@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_32 TILs and counting..._
+_33 TILs and counting..._
 
 ---
 
@@ -101,6 +101,7 @@ _32 TILs and counting..._
 - [ArchLinux Maintenance](linux/al_maintenance.md)
 - [Installing Hugo on ArchLinux](linux/al_hugo.md)
 - [Android dev tools on Linux Mint](linux/lm_android.md)
+- [i3wm exploration](linux/i3wm.md)
 
 ### python
 - [Resources](python/resources.md)
