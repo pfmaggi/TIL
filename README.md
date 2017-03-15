@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_33 TILs and counting..._
+_35 TILs and counting..._
 
 ---
 
@@ -65,6 +65,8 @@ _33 TILs and counting..._
 - [Android Nougat can have multiple languages supported at the same time](android/polyglot.md)
 - [Resources for Material Design](android/material_colors.md)
 - [Android for Work name change](android/AfW_no_more.md)
+- [Xamarin Forms Tips and Tricks](android/xamarin_forms.md)
+- [Bluetooth Discovery in API Level 23+](android/api23_bluetooth.md)
 
 ### Git
 
