@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_36 TILs and counting..._
+_38 TILs and counting..._
 
 ---
 
@@ -112,6 +112,7 @@ _36 TILs and counting..._
 
 ### docker
 - [Some docker commands](docker/commands.md)
+- [GoLang environment in a Container](docker/go.md)
 
 ## About
 
