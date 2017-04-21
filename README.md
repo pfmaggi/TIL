@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_38 TILs and counting..._
+_39 TILs and counting..._
 
 ---
 
@@ -81,7 +81,7 @@ _38 TILs and counting..._
 
 
 ### tmux
-
+- [Copy mode changes in tmux v2.4](tmux/copymode_changes.md)
 
 ### Vim
 - [VIM Adventures](vim/adventures.md)
