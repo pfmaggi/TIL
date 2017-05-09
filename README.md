@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_41 TILs and counting..._
+_42 TILs and counting..._
 
 ---
 
@@ -97,6 +97,7 @@ _41 TILs and counting..._
 ### Web
 - [Disable Select in HTML input and text](web/disable_select.md)
 - [Open Weather API](web/openweather.md)
+- [eslint](web/eslint.md)
 
 ### STM32
 - [Use stlink on OS X Yosemite](stm32/stlink_osx.md)
