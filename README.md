@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_42 TILs and counting..._
+_43 TILs and counting..._
 
 ---
 
@@ -46,6 +46,7 @@ _42 TILs and counting..._
 - [Python3](mac/python3.md)
 - [SHA256](mac/sha256.md)
 - [FixBrewXcode](mac/FixBrewXcode.md)
+- [Convert Markdown to PDF](mac/md2pdf.md)
 
 ### EnterpriseBrowser
 - [Read UPC Supplementals](eb/upc_supplementals.md)
