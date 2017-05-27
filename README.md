@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_43 TILs and counting..._
+_45 TILs and counting..._
 
 ---
 
@@ -29,6 +29,8 @@ _43 TILs and counting..._
 * [Ruby](#ruby)
 * [tmux](#tmux)
 * [docker](#docker)
+* [blockchain](#blockchain)
+* [Non Technical](#softskills)
 
 ---
 
@@ -70,6 +72,7 @@ _43 TILs and counting..._
 - [Xamarin Forms Tips and Tricks](android/xamarin_forms.md)
 - [Bluetooth Discovery in API Level 23+](android/api23_bluetooth.md)
 - [Android Studio Projects - local properties](android/local_properties.md)
+- [Android Certification](android/certification.md)
 
 ### Git
 
@@ -116,6 +119,12 @@ _43 TILs and counting..._
 ### docker
 - [Some docker commands](docker/commands.md)
 - [GoLang environment in a Container](docker/go.md)
+
+### blockchain
+- [BlockChain resources](blockchain/resources.md)
+
+### softskills
+- [Questions to Ask in a Job Interview](job_interview_questions.md)
 
 ## About
 
