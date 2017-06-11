@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_45 TILs and counting..._
+_46 TILs and counting..._
 
 ---
 
@@ -73,6 +73,7 @@ _45 TILs and counting..._
 - [Bluetooth Discovery in API Level 23+](android/api23_bluetooth.md)
 - [Android Studio Projects - local properties](android/local_properties.md)
 - [Android Certification](android/certification.md)
+- [Android support library Archive](android/supportlib_archive.md)
 
 ### Git
 

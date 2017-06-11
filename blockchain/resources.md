@@ -23,3 +23,4 @@ Microsoft is currently offering the Ethereum platform on the Azure cloud platfor
   - [IBM Launches Accelerator Program to Kickstart Blockchain Adoption for Enterprises](http://www-03.ibm.com/press/us/en/pressrelease/52399.wss)
   - [Maersk and IBM Unveil First Industry-Wide Cross-Border Supply Chain Solution on Blockchain](http://www-03.ibm.com/press/us/en/pressrelease/51712.wss)
   - [Consensus 2017: From Capital Markets to Supply Chains, IBM Outlines How Blockchain Will Reimagine Business Networks](http://www-03.ibm.com/press/us/en/pressrelease/52445.wss)
+  - [The Week in BitCoin curated newsletter](http://subscribe.theweekinbitcoin.com/)
