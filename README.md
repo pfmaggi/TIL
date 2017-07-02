@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_46 TILs and counting..._
+_47 TILs and counting..._
 
 ---
 
@@ -83,7 +83,7 @@ _46 TILs and counting..._
 
 
 ### JavaScript
-
+- [React Native boilerplate](JavaScript/react-native.md)
 
 ### tmux
 - [Copy mode changes in tmux v2.4](tmux/copymode_changes.md)
