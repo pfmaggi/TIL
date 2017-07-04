@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_47 TILs and counting..._
+_48 TILs and counting..._
 
 ---
 
@@ -74,6 +74,7 @@ _47 TILs and counting..._
 - [Android Studio Projects - local properties](android/local_properties.md)
 - [Android Certification](android/certification.md)
 - [Android support library Archive](android/supportlib_archive.md)
+- [Google Mobile Services Libraries](android/gms_library.md)
 
 ### Git
 

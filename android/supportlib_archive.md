@@ -1,4 +1,4 @@
-# Android Surpport Library archive
+# Android Support Library archive
 I usually find difficult to keep track of which support library versions are available and is quite frustrating when I cannot find the exact number I need for a specific sample that I build months ago.  
 To this I can add that Android Studio always complain when I try to use something with a `+` in the version (to avoid to specify the full version)... this has been something bothering for me way too much:
 
