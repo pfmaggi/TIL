@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_48 TILs and counting..._
+_49 TILs and counting..._
 
 ---
 
@@ -75,6 +75,7 @@ _48 TILs and counting..._
 - [Android Certification](android/certification.md)
 - [Android support library Archive](android/supportlib_archive.md)
 - [Google Mobile Services Libraries](android/gms_library.md)
+- [Sending an intent through Soti scripting](android/soti_intent.md)
 
 ### Git
 
