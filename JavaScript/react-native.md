@@ -26,3 +26,9 @@ If we want to connect our react native application to a Firebase backend, it's v
     npm install --save firebase
 
 then go to the [firebase console](https://console.firebase.google.com) and setup the backend.
+
+## Setup redux-trunk
+This is a redux middleware that can be used to dispatch action asynchronously, as always we can install in our environment using:
+
+    npm install --save redux-trunk
+    
