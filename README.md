@@ -128,7 +128,7 @@ _50 TILs and counting..._
 - [BlockChain resources](blockchain/resources.md)
 
 ### softskills
-- [Questions to Ask in a Job Interview](job_interview_questions.md)
+- [Questions to Ask in a Job Interview](softskills/job_interview_questions.md)
 
 ## About
 
