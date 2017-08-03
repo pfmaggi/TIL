@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_49 TILs and counting..._
+_50 TILs and counting..._
 
 ---
 
@@ -80,6 +80,7 @@ _49 TILs and counting..._
 ### Git
 
 - [Clone Zebra's EMDK samples](git/clone_emdk_samples.md)
+- [Working with forks](git/forking.md)
 
 ### Clojure
 
