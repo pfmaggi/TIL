@@ -32,3 +32,7 @@ This is a redux middleware that can be used to dispatch action asynchronously, a
 
     npm install --save redux-trunk
     
+## Setup react-native-router-flux
+This is the routing library for react native (and we want a very specific version):
+
+    npm install --save react-native-router-flux@3.35.0
