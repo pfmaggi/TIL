@@ -74,7 +74,7 @@ _50 TILs and counting..._
 - [Android Studio Projects - local properties](android/local_properties.md)
 - [Android Certification](android/certification.md)
 - [Android support library Archive](android/supportlib_archive.md)
-- [Google Mobile Services Libraries](android/gms_library.md)
+- [Google Play Services Libraries](android/gms_library.md)
 - [Sending an intent through Soti scripting](android/soti_intent.md)
 
 ### Git
@@ -144,7 +144,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2016 Pietro F. Maggi
+&copy; 2016-17 Pietro F. Maggi
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
