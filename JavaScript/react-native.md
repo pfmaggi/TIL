@@ -36,3 +36,8 @@ This is a redux middleware that can be used to dispatch action asynchronously, a
 This is the routing library for react native (and we want a very specific version):
 
     npm install --save react-native-router-flux@3.35.0
+
+## setup lodash
+This is an helper library with a set of methods to easily handle data structures in JavaScrip
+
+    npm install --save lodash

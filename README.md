@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_50 TILs and counting..._
+_51 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _50 TILs and counting..._
 * [docker](#docker)
 * [blockchain](#blockchain)
 * [Non Technical](#softskills)
+* [C](#C)
 
 ---
 
@@ -129,6 +130,9 @@ _50 TILs and counting..._
 
 ### softskills
 - [Questions to Ask in a Job Interview](softskills/job_interview_questions.md)
+
+### C
+- [C11 Includes a more secure strcpy](c/c11_secure.md)
 
 ## About
 
