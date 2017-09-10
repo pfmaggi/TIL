@@ -31,7 +31,7 @@ _51 TILs and counting..._
 * [docker](#docker)
 * [blockchain](#blockchain)
 * [Non Technical](#softskills)
-* [C](#C)
+* [C](#c)
 
 ---
 
@@ -82,6 +82,7 @@ _51 TILs and counting..._
 
 - [Clone Zebra's EMDK samples](git/clone_emdk_samples.md)
 - [Working with forks](git/forking.md)
+- [Reset local repository branch to be just like remote repository HEAD](git/reverting.md)
 
 ### Clojure
 
