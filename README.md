@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_51 TILs and counting..._
+_53 TILs and counting..._
 
 ---
 
@@ -77,6 +77,7 @@ _51 TILs and counting..._
 - [Android support library Archive](android/supportlib_archive.md)
 - [Google Play Services Libraries](android/gms_library.md)
 - [Sending an intent through Soti scripting](android/soti_intent.md)
+- [Zebra EMDK's sample](android/zebra_sample.md)
 
 ### Git
 
