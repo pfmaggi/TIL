@@ -77,7 +77,7 @@ _53 TILs and counting..._
 - [Android support library Archive](android/supportlib_archive.md)
 - [Google Play Services Libraries](android/gms_library.md)
 - [Sending an intent through Soti scripting](android/soti_intent.md)
-- [Zebra EMDK's sample](android/zebra_sample.md)
+- [Zebra's EMDK for Android sample](android/zebra_sample.md)
 
 ### Git
 
