@@ -1,4 +1,4 @@
-# Where are all Zebra's EMDK for Android sample?
+# Where are all Zebra's EMDK for Android samples?
 
 ## The latest versions
 As I'm writing the latest Zebra's EMDK for Android is v6.6, supporting KitKat, Lollipop and Marshmallow devices.  All the documentation is available on [TechDocs](http://techdocs.zebra.com), and from there you can find [all the samples](http://techdocs.zebra.com/emdk-for-android/6-6/samples/) and their source code on GitHub, under the [Zebra organization](https://github.com/Zebra).
