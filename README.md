@@ -133,7 +133,7 @@ _55 TILs and counting..._
 
 * [Some docker commands](docker/commands.md)
 * [GoLang environment in a Container](docker/go.md)
-* [Play with .NET core in a Container](docket/dotnet_core.md)
+* [Play with .NET core in a Container](docker/dotnet_core.md)
 
 ### blockchain
 
