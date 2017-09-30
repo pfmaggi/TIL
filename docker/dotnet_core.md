@@ -1,6 +1,6 @@
 # Playing with dotNet core (on OSX) with a docker container
 
-The basic idea is to play a bit with dotNET core without having to install anything on my own machine.
+The basic idea is to play a bit with dotNET core without having to install anything on my own machine. You can get an idea of what I mean watching [this video](https://channel9.msdn.com/Blogs/dotnet/Create-a-Simple-NET-Application-in-Docker).
 
 Microsoft publish a docker image with all the tools to start playing with dotNet core, so, it's simple to just start with that:
 
@@ -36,7 +36,7 @@ Next, you can start to edit the project from your host machine, with the preferr
         }
     }
 
-Modify the command in your editor (as an example, change the string to `"Hello Docker!"`), save, and recompile it:
+Modify the command in your editor (as an example, change the string to `"Hello Docker!"`), save, and recompile it from inside the container:
 
     dotnet run
     $Hello Docker!
