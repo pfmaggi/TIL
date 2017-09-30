@@ -1,5 +1,7 @@
 # Upgrading a MacMini 2012
-I wrote this long time ago. It was supposed to be a blog post but I never finished it.  
+
+I wrote this long time ago. It was supposed to be a blog post but I never finished it.
+
 Long story short, this summer (2017) I wanted to update the small 128GB SSD I installed in 2014.  For less money I now got a 512GB SSD and this notes has been useful to help me remember hot to take the MacMini apart and back together...
 
 So, it's now a TIL :-)
@@ -16,7 +18,6 @@ So, I've ordered through Amazon, a quad-core Core i7 MacMini, a couple of memory
 After having received everything (as always with a perfect service from Amazon) I used [this OCW video to upgrade the Mac mini](https://www.youtube.com/watch?v=63WL3Q7UujI).
 
 So, after dinner, with wife and kids already in bed I started to dismount and remount the Mini and then follow [this instruction to setup the machine](http://blog.macsales.com/15619-special-note-for-adding-an-ssd-to-a-2012-mac-mini).
-
 
 [OWC Data Doubler Mounting Kit and Tools for Mac mini 2011, 2012 & Later Models](http://eshop.macsales.com/item/OWC/DIYIMM11D2/)
 [Special Note for Adding an SSD to a 2012 Mac mini.](http://blog.macsales.com/15619-special-note-for-adding-an-ssd-to-a-2012-mac-mini)
