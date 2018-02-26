@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_56 TILs and counting..._
+_58 TILs and counting..._
 
 ---
 
@@ -32,6 +32,7 @@ _56 TILs and counting..._
 * [blockchain](#blockchain)
 * [Non Technical](#softskills)
 * [C](#c)
+* [Security](#security)
 
 ---
 
@@ -114,6 +115,11 @@ _56 TILs and counting..._
 * [Disable Select in HTML input and text](web/disable_select.md)
 * [Open Weather API](web/openweather.md)
 * [eslint](web/eslint.md)
+* [PWA - Progressive Web Applications](web/pwa.md)
+
+### Security
+
+* [SPECTRE from the browser](security/spectre_js.md)
 
 ### STM32
 
