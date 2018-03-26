@@ -6,11 +6,11 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_55 TILs and counting..._
+_56 TILs and counting..._
 
 ---
 
-### Categories
+## Categories
 
 * [emacs](#emacs)
 * [Android](#android)
@@ -32,6 +32,7 @@ _55 TILs and counting..._
 * [blockchain](#blockchain)
 * [Non Technical](#softskills)
 * [C](#c)
+* [rust](#rust)
 
 ---
 
@@ -146,6 +147,9 @@ _55 TILs and counting..._
 ### C
 
 * [C11 Includes a more secure strcpy](c/c11_secure.md)
+
+### rust
+* [docker image for stm32 blue pill](rust/docket_stm32.md)
 
 ## About
 

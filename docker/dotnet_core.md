@@ -8,7 +8,7 @@ Microsoft publish a docker image with all the tools to start playing with dotNet
 
 in my case this became:
 
-    docker run -tiv /Users/pfmaggi/Sorgenti/C#/dotNET_core/sample:/root/src microsoft/dotnet
+    docker run -tiv /Users/pfmaggi/source/C#/dotNET_core/sample:/root/src microsoft/dotnet
 
 The first time you run this command, docker downloads the image (currently less than 2GB) and then you find yourself in the container image prompt.
 
