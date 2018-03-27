@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_58 TILs and counting..._
+_59 TILs and counting..._
 
 ---
 
@@ -157,7 +157,7 @@ _58 TILs and counting..._
 * [C11 Includes a more secure strcpy](c/c11_secure.md)
 
 ### rust
-* [docker image for stm32 blue pill](rust/docket_stm32.md)
+* [docker image for stm32 blue pill](rust/docker_stm32.md)
 
 ## About
 

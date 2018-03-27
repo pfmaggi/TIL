@@ -1,7 +1,7 @@
-#`rust` and embedded
+# `rust` and embedded
 I wanted to play a bit with rust on the stm32 blue pill kind of board
 
-##Starting point
+## Starting point
 I started from [this docker image](https://dev.to/dalimay28/using-docker-for-embedded-systems-development-b16), it does not includes rust, but it has the needed toolchain.
 
 The changes I'd to adopt to run it on macOS is to avoid access to USB. I'll use the image just to generate the binaries, then using the stlink utility in macOS to write the binary blob to the device's FLASH:
@@ -16,7 +16,7 @@ Ok, it works.
 
 Time to install rust and test it!
 
-##Installing rust in the docker image
+## Installing rust in the docker image
 First, install curl in the image:
 
     sudo apt-get install curl
