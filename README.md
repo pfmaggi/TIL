@@ -46,7 +46,7 @@ _59 TILs and counting..._
 ### Mac
 
 * [Default Screenshot Location](mac/default_screenshot_location.md)
-* [Bash Completion with HomeBrew](mac/bash_completition.md)
+* [Bash Completion with HomeBrew](mac/bash_completion.md)
 * [Command line airport](mac/airport.md)
 * [Python3](mac/python3.md)
 * [SHA256](mac/sha256.md)
@@ -64,26 +64,26 @@ _59 TILs and counting..._
 
 ### Android
 
-- [Android Studio Live Templates](android/live_template.md)
-- [Set Android Display auto-rotate from adb](android/auto_rotate.md)
-- [Get the keyset of a bundle object](android/get_bundle_keyset.md)
-- [AfW: Access SD card data from application running in the work profile](android/afw_sdcard.md)
-- [adb install options](android/adb_install.md)
-- [Gradle Properties file](android/gradle_properties.md)
-- [MC18 Android KK v4.4.4 - hide/show Navigation Bar](android/mc18_toggle_navbar.md)
-- [Android Nougat can have multiple languages supported at the same time](android/polyglot.md)
-- [Resources for Material Design](android/material_colors.md)
-- [Android for Work name change](android/AfW_no_more.md)
-- [Xamarin Forms Tips and Tricks](android/xamarin_forms.md)
-- [Bluetooth Discovery in API Level 23+](android/api23_bluetooth.md)
-- [Android Studio Projects - local properties](android/local_properties.md)
-- [Android Certification](android/certification.md)
-- [Android support library Archive](android/supportlib_archive.md)
-- [Google Play Services Libraries](android/gms_library.md)
-- [Sending an intent through Soti scripting](android/soti_intent.md)
-- [Zebra's EMDK for Android sample](android/zebra_sample.md)
-- [Google Chrome for Android and Intents](android/chrome_intents.md)
-- [Android's package manager tips and tricks](android/package_manager.md)
+* [Android Studio Live Templates](android/live_template.md)
+* [Set Android Display auto-rotate from adb](android/auto_rotate.md)
+* [Get the keyset of a bundle object](android/get_bundle_keyset.md)
+* [AfW: Access SD card data from application running in the work profile](android/afw_sdcard.md)
+* [adb install options](android/adb_install.md)
+* [Gradle Properties file](android/gradle_properties.md)
+* [MC18 Android KK v4.4.4 - hide/show Navigation Bar](android/mc18_toggle_navbar.md)
+* [Android Nougat can have multiple languages supported at the same time](android/polyglot.md)
+* [Resources for Material Design](android/material_colors.md)
+* [Android for Work name change](android/AfW_no_more.md)
+* [Xamarin Forms Tips and Tricks](android/xamarin_forms.md)
+* [Bluetooth Discovery in API Level 23+](android/api23_bluetooth.md)
+* [Android Studio Projects - local properties](android/local_properties.md)
+* [Android Certification](android/certification.md)
+* [Android support library Archive](android/supportlib_archive.md)
+* [Google Play Services Libraries](android/gms_library.md)
+* [Sending an intent through Soti scripting](android/soti_intent.md)
+* [Zebra's EMDK for Android sample](android/zebra_sample.md)
+* [Google Chrome for Android and Intents](android/chrome_intents.md)
+* [Android's package manager tips and tricks](android/package_manager.md)
 
 ### Git
 
@@ -157,6 +157,7 @@ _59 TILs and counting..._
 * [C11 Includes a more secure strcpy](c/c11_secure.md)
 
 ### rust
+
 * [docker image for stm32 blue pill](rust/docker_stm32.md)
 
 ## About
