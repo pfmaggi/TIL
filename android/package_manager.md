@@ -3,11 +3,12 @@
 Here're some package manager commands that I find useful in my day-by-day investigation of the Android operative system
 
 ## Package Manager from the shell
+
 You can use the package manager from `adb` shell using the command:
 
-    adb shell pm 
+    adb shell pm
 
-This will print the uage guide for the pm command:
+This will print the usage guide for the pm command:
 
     usage: pm list packages [-f] [-d] [-e] [-s] [-3] [-i] [-u] [--user USER_ID] [FILTER]
            pm list permission-groups
@@ -46,11 +47,28 @@ The same usage guide can be found in [adb's documentation.](https://developer.an
 
 ### Download the apk of an installed application
 
+Something that I find useful is to be able to retrieve installed application from a device. This can be a OEM specific application, only available on a device, or an application from the PlayStore that I want to tinker with.
+
+In this case, my usual process is to identify the application's package name and then retrieve it. As an example, assume I want to retrieve an app named `oemconfig` from a Zebra device.
+
+    adb shell pm list packages | grep oemconfig
+    package:com.zebra.oemconfig
+
+Now that we have the package name, we can ask to the package manager, where is the actual apk file:
+
+    adb shell pm path com.zebra.oemconfig
+    package:/system/priv-app/com.zebra.oemconfig/com.zebra.oemconfig.apk
+
+The last step is just to pull the file from the device:
+
+    adb pull /system/priv-app/com.zebra.oemconfig/com.zebra.oemconfig.apk
+    /system/priv-app/com.zebra.oemconfig/com.zebra.oemconfig.apk: 1 file pulled. 13.2 MB/s (1242435 bytes in 0.090s)
 
 ### Get to know better your Android device
 
-#### What are the known permission?
+#### What are the known permission
 
+Android permissions are one of the key components of the security system of the operative system. A complete list of the standard permissions is available on [Android documentation](). What I find missing there is a description of the type of the permission ()
     pm list permissions
 
 If you happen to run adb on a platform with grep, you can see directly which custom permissions are known on Zebra Technologies devices:
