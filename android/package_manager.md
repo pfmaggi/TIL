@@ -1,6 +1,6 @@
 # Android's package manager
 
-Here're some package manager commands that I find useful in my day-by-day investigation of the Android operative system
+Here are some package manager commands that I find useful in my day-by-day investigation of the Android operative system
 
 ## Package Manager from the shell
 
@@ -76,7 +76,6 @@ If you happen to run adb on a platform with grep, you can see directly which cus
     adb shell pm list permissions -f | grep 'symbol\|zebra' -A 3
 
 Running this on a TC56 with Android v6.0.x I see:
-
 
     + permission:com.symbol.osx.proxyframework.permission.BIND_HOMESCREEN_DEFAULT
       package:com.symbol.osx.proxyframework
