@@ -52,7 +52,7 @@ vim wpa_supplicant.conf
 ctrl_interface=/var/run/wpa_supplicant
 ctrl_interface_group=netdev
 update_config=1
-country=PL
+country=IT
 ap_scan=1
 
 network={
@@ -61,6 +61,23 @@ network={
     scan_ssid=1
 }
 ```
+If you need to configure more than one SSID you can add networks information setting a priority:
+
+```text
+network={
+    ssid="SchoolNetworkSSID"
+    psk="passwordSchool"
+    id_str="school"
+}
+
+network={
+    ssid="HomeNetworkSSID"
+    psk="passwordHome"
+    id_str="home"
+}
+```
+
+Reference: [Setting WiFi up via the command line](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
 
 #### Disable WiFi on boot
 
@@ -664,7 +681,7 @@ diskutil list
 supposing that your sdcard is connected to `/dev/disk2` you can use the command:
 
 ```bash
-dd if=/dev/disk2 of=~/Desktop/backup.img
+sudo dd if=/dev/disk2 of=~/Desktop/backup.img
 ```
 
 where `/dev/disk2` is a name of a mounted sd card, `~/Desktop/backup.img` is a
@@ -678,6 +695,8 @@ PIShrink requires linux because it uses some utilities only available there. To 
 ```bash
 docker-compose run pishrink /pishrink/pishrink.sh /pishrink/someimage.img
 ```
+
+**NOTE:** You may need to change the image owner from `root` to your own before you are able to use pPisShrinks using the `chown` command.
 
 ## Connect/Mount USB memory sticks
 
