@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_59 TILs and counting..._
+_61 TILs and counting..._
 
 ---
 
@@ -90,6 +90,7 @@ _59 TILs and counting..._
 * [Clone Zebra's EMDK samples](git/clone_emdk_samples.md)
 * [Working with forks](git/forking.md)
 * [Reset local repository branch to be just like remote repository HEAD](git/reverting.md)
+* [Ten git tips](git/ten_tips.md)
 
 ### Clojure
 
@@ -133,6 +134,7 @@ _59 TILs and counting..._
 * [Installing Hugo on ArchLinux](linux/al_hugo.md)
 * [Android dev tools on Linux Mint](linux/lm_android.md)
 * [i3wm exploration](linux/i3wm.md)
+* [Disable middle button](linux/middle_button.md)
 
 ### python
 
@@ -174,7 +176,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2016-17 Pietro F. Maggi
+&copy; 2016-19 Pietro F. Maggi
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
