@@ -6,8 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_60 and counting..._
->>>>>>> c1d1ac15530b4c33222b2b291e6effad37521508
+_61 and counting..._
 
 ---
 
