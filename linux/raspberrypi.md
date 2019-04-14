@@ -426,6 +426,45 @@ RUN pip3 install -r requirements.txt
 CMD ["python3", "cheerlights.py"]
 ```
 
+### Using a golang docker image
+
+```
+docker pull arm32v7/golang:latest
+docker run --rm -it arm32v7/golang
+```
+
+You can test it creating a `helloworld.go`:
+
+```
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+```
+
+Then you can execute it using the docker image:
+
+```
+docker run --rm -v "$(pwd)":/app -w /app  arm32v7/golang sh -c 'go run helloworld.go'
+```
+
+I've added this function to my `.bashrc`:
+
+```
+function dogo(){
+        docker run --rm -v "$(pwd)":/app -w /app  arm32v7/golang sh -c "go run $@"
+}
+```
+
+To be able to run a go program using (for example for the previous `helloworld.go`):
+
+```
+dogo helloworld.go
+```
+
 ## Node Support
 
 This will install latest version (https://github.com/sdesalas/node-pi-zero):

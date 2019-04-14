@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_59 TILs and counting..._
+_60 and counting..._
 
 ---
 
@@ -133,7 +133,7 @@ _59 TILs and counting..._
 * [Installing Hugo on ArchLinux](linux/al_hugo.md)
 * [Android dev tools on Linux Mint](linux/lm_android.md)
 * [i3wm exploration](linux/i3wm.md)
-
+* [Disable middle mouse button](linux/middle_mouse.md)
 ### python
 
 * [Resources](python/resources.md)
@@ -174,7 +174,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2016-17 Pietro F. Maggi
+&copy; 2016-19 Pietro F. Maggi
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
