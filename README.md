@@ -7,6 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 _60 and counting..._
+>>>>>>> c1d1ac15530b4c33222b2b291e6effad37521508
 
 ---
 
