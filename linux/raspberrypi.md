@@ -189,6 +189,18 @@ To connect to your RaspberryPi using this newly generated key you can use ssh's 
 
     ssh -i ~/.ssh/id_ed25519 pi@raspberrypi.local
 
+You can further symplify the connection adding some information about your connection to the `.ssh/config` file:
+
+    Host <friendly_name>
+        Hostname <server_hostname>
+        User pi
+        PubKeyAuthentication yes
+        IdentityFile <path_to_id_ed25519>
+
+in this way you can simply use the command:
+
+    ssh <friendly_name>
+
 * [Reference](https://www.bsdnow.tv/tutorials/ssh-tmux)
 * [Reference](https://www.cyberciti.biz/faq/force-ssh-client-to-use-given-private-key-identity-file/)
 
