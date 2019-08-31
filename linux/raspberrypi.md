@@ -256,6 +256,16 @@ locale
 
 Everything with locales seems fixed when logging in with users or runninglocale again now.
 
+## Git
+
+### Install Git
+
+```bash
+sudo apt-get install git
+```
+
+If you need to work on remote repository, pushing changes to github or other services through ssh, you will need to setup and register an ssh key.
+
 ## Vim
 
 ### Install Vim
