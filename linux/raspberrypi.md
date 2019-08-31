@@ -178,6 +178,11 @@ Now, copy the public key on the RaspberryPi
 
     scp ~/.ssh/id_ed25519.pub username@serverip:.ssh/authorized_keys
 
+It's important to setup correctly the directory and file permission:
+
+    chmod 700 .ssh
+    chmod 600 .ssh/authorized_keys
+
 You can disable password authentication in sshd_config by changing the "PasswordAuthentication yes" line to "PasswordAuthentication no" after doing this step. Be sure to restart the daemon for changes to take effect. At this point you should be able to SSH into the server without entering your password. It's using the key pair we just generated for authentication now.
 
 To connect to your RaspberryPi using this newly generated key you can use ssh's `-i` parameter:
@@ -770,6 +775,10 @@ To manually mount the drive use the following command :
 This will mount the drive so that the ordinary Pi user can write to it. Omitting the `-o uid=pi,gid=pi` would mean you could only write to it using `sudo`.
 
 Now you can read, write and delete files using `/media/usb` as a destination or source without needing to use sudo.
+
+If the USB drive you're mounting is formatted with `ext4fs` (as an example a sdcard with boot as `sda1` and the root disk as `sda2`) you can use the following command:
+
+    sudo mount -t ext4 -o defaults /dev/sda2 /media/usb
 
 ### Step 5 – Un-mounting The Drive
 
