@@ -9,6 +9,7 @@ root = pathlib.Path(__file__).parent.resolve()
 
 def created_changed_times(repo_path, ref="master"):
     created_changed_times = {}
+    old_path = ""
     repo = git.Repo(repo_path, odbt=git.GitDB)
     commits = reversed(list(repo.iter_commits(ref)))
     for commit in commits:
@@ -19,7 +20,13 @@ def created_changed_times(repo_path, ref="master"):
                 idx1 = filepath.find("{")
                 idx2 = filepath.find("=>")
                 idx3 = filepath.find("}")
+                old_path = filepath[0:idx1] + filepath[idx1+1:idx2-1]
                 filepath = filepath[0:idx1] + filepath[idx2+3:idx3]
+                created_changed_times[filepath] = {
+                    "created": created_changed_times[old_path].get("created"),
+                    "created_utc": created_changed_times[old_path].get("created_utc"),
+                }
+                
             if filepath not in created_changed_times:
                 created_changed_times[filepath] = {
                     "created": dt.isoformat(),
@@ -36,7 +43,6 @@ def created_changed_times(repo_path, ref="master"):
 
 def build_database(repo_path):
     all_times = created_changed_times(repo_path)
-    print(all_times)
     db = sqlite_utils.Database(repo_path / "til.db")
     table = db.table("til", pk="path")
     for filepath in root.glob("*/*.md"):

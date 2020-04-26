@@ -1,4 +1,4 @@
-
+# Change autorotation through adb
 
 
 ```

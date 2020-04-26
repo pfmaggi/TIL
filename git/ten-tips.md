@@ -1,4 +1,8 @@
-# [10 Git Commands You Should Know](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
+# 10 Git Commands You Should Know
+
+Source:
+[10 Git Commands You Should Know](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
+
 ## Inspecting Things
 
 Let’s look at inspecting changes first.
