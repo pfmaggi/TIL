@@ -1,5 +1,8 @@
+# Avoid the cut/copy/paste on selected text
+
 Regarding text selection; I’ve done some tests in the past to avoid the cut/copy/paste menu and I was able to disable it with some CSS:
 
+```html
 <style>
 input {
   -moz-user-select: none;
@@ -21,6 +24,7 @@ Or even to the text:
 <div class="unselectable">
 <h1>Test</h1>
 </div>
+```
 
 To bee able to select phone numbers and activate directly the phone application, again, some HTML and JavaScript may be able to achieve what you’re looking for, in particular something linked to the "phone:” URI:
 http://rickluna.com/wp/2012/02/making-a-phone-call-from-within-phonegap-in-android-and-ios/

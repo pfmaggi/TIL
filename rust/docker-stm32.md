@@ -1,4 +1,5 @@
 # `rust` and embedded
+
 I wanted to play a bit with rust on the stm32 blue pill kind of board
 
 ## Starting point
