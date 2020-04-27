@@ -1,4 +1,5 @@
-name: Build README and deploy if changed
+name: Update README
+# Build README and deploy if changed
 
 on:
   push:

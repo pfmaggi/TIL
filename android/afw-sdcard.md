@@ -1,4 +1,4 @@
-# Access SD card data from android for work application running in the work profile
+# Access SD card data from on application running in the work profile
 
 [from this StackOverflow question](http://stackoverflow.com/questions/37827612/access-sd-card-data-from-android-for-work-app):
 

@@ -1,4 +1,6 @@
-# List of available parameters that can be used when installing an APK on Android using ADB
+# adb install parameters
+
+List of available parameters that can be used when installing an APK on Android using ADB
 
 Look simple, but there're a lot of options hidden behind the simple:
 
