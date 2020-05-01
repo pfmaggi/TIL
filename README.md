@@ -138,7 +138,7 @@ warrant a full blog post.
 ## About
 
 I shamelessly stole this idea from
-[thoughtbot/til](https://github.com/thoughtbot/til).
+[thoughtbot/til](https://github.com/thoughtbot/til). The idea to auto-generate the README ToC is stolen from [Simon Willison](https://github.com/simonw/til).
 
 ## Other TIL Collections
 
