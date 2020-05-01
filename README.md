@@ -43,16 +43,16 @@ warrant a full blog post.
 * [Android Studio Live Templates](https://github.com/pfmaggi/til/blob/master/android/live-template.md) - 2016-03-20
 * [Change autorotation through adb](https://github.com/pfmaggi/til/blob/master/android/auto-rotate.md) - 2016-06-07
 * [Get the keyset of a bundle object](https://github.com/pfmaggi/til/blob/master/android/get-bundle_keyset.md) - 2016-06-13
-* [Android FileObserver and the Underlying inotify Mechanism](https://github.com/pfmaggi/til/blob/master/android/file-observable.md) - 2016-07-18
 * [Access SD card data from on application running in the work profile](https://github.com/pfmaggi/til/blob/master/android/afw-sdcard.md) - 2016-07-18
+* [Android FileObserver and the Underlying inotify Mechanism](https://github.com/pfmaggi/til/blob/master/android/file-observable.md) - 2016-07-18
 * [adb install parameters](https://github.com/pfmaggi/til/blob/master/android/adb-install.md) - 2016-07-21
 * [Gradle properties file](https://github.com/pfmaggi/til/blob/master/android/gradle-properties.md) - 2016-08-04
 * [Toggling MC18 Navigation (and Status) Bar visible state](https://github.com/pfmaggi/til/blob/master/android/mc18-toggle-navbar.md) - 2016-10-26
 * [Android 7.0 - Nougat add support for multi-locales](https://github.com/pfmaggi/til/blob/master/android/polyglot.md) - 2016-12-05
 * [Resources for Material Design palette and theme selections](https://github.com/pfmaggi/til/blob/master/android/material-colors.md) - 2016-12-05
 * [Changes in the naming of Android for Work](https://github.com/pfmaggi/til/blob/master/android/AfW-no-more.md) - 2016-12-13
-* [Bluetooth discovery on Android API level 23](https://github.com/pfmaggi/til/blob/master/android/api23-bluetooth.md) - 2017-03-15
 * [Xamarin Forms tips and tricks](https://github.com/pfmaggi/til/blob/master/android/xamarin-forms.md) - 2017-03-15
+* [Bluetooth discovery on Android API level 23](https://github.com/pfmaggi/til/blob/master/android/api23-bluetooth.md) - 2017-03-15
 * [Using Android local.properties file](https://github.com/pfmaggi/til/blob/master/android/local-properties.md) - 2017-04-14
 * [Associate Android Developer certification exam](https://github.com/pfmaggi/til/blob/master/android/certification.md) - 2017-05-27
 * [Android Support Library archive](https://github.com/pfmaggi/til/blob/master/android/supportlib-archive.md) - 2017-06-11
@@ -102,21 +102,21 @@ warrant a full blog post.
 
 ## docker
 
-* [Docker container for GoLang programming](https://github.com/pfmaggi/til/blob/master/docker/go.md) - 2017-04-15
 * [Some useful docker commands](https://github.com/pfmaggi/til/blob/master/docker/commands.md) - 2017-04-15
+* [Docker container for GoLang programming](https://github.com/pfmaggi/til/blob/master/docker/go.md) - 2017-04-15
 * [Playing with dotNet core (on OSX) with a docker container](https://github.com/pfmaggi/til/blob/master/docker/dotnet-core.md) - 2017-09-30
 
 ## tmux
 
 * [tmux v2.4 introduce a new copymode option... that broke my previous setup](https://github.com/pfmaggi/til/blob/master/tmux/copymode-changes.md) - 2017-04-21
 
-## softskills
-
-* [The 8 Best Questions to Ask a Job Interviewer](https://github.com/pfmaggi/til/blob/master/softskills/job-interview-questions.md) - 2017-05-27
-
 ## blockchain
 
 * [Some Blockchain resources](https://github.com/pfmaggi/til/blob/master/blockchain/resources.md) - 2017-05-27
+
+## softskills
+
+* [The 8 Best Questions to Ask a Job Interviewer](https://github.com/pfmaggi/til/blob/master/softskills/job-interview-questions.md) - 2017-05-27
 
 ## JavaScript
 
