@@ -1,4 +1,5 @@
-# [Associate Android Developer certification exam](https://developers.google.com/training/certification/)
+# Associate Android Developer certification exam
+Reference: [Associate Android Developer certification exam](https://developers.google.com/training/certification/)
 
 The Associate Android Developer exam demonstrates the type of skill that a newer Android Developer should have as they begin their career. By passing this exam and earning the Associate Android Developer Certification, you will show that you are competent and skilled in tasks that a developer typically performs.
 

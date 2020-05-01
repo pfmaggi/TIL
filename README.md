@@ -44,8 +44,8 @@ warrant a full blog post.
 * [Change autorotation through adb](https://github.com/pfmaggi/til/blob/master/android/auto-rotate.md) - 2016-06-07
 * [Get the keyset of a bundle object](https://github.com/pfmaggi/til/blob/master/android/get-bundle_keyset.md) - 2016-06-13
 * [Android FileObserver and the Underlying inotify Mechanism](https://github.com/pfmaggi/til/blob/master/android/file-observable.md) - 2016-07-18
-* [Access SD card data from android for work application running in the work profile](https://github.com/pfmaggi/til/blob/master/android/afw-sdcard.md) - 2016-07-18
-* [List of available parameters that can be used when installing an APK on Android using ADB](https://github.com/pfmaggi/til/blob/master/android/adb-install.md) - 2016-07-21
+* [Access SD card data from on application running in the work profile](https://github.com/pfmaggi/til/blob/master/android/afw-sdcard.md) - 2016-07-18
+* [adb install parameters](https://github.com/pfmaggi/til/blob/master/android/adb-install.md) - 2016-07-21
 * [Gradle properties file](https://github.com/pfmaggi/til/blob/master/android/gradle-properties.md) - 2016-08-04
 * [Toggling MC18 Navigation (and Status) Bar visible state](https://github.com/pfmaggi/til/blob/master/android/mc18-toggle-navbar.md) - 2016-10-26
 * [Android 7.0 - Nougat add support for multi-locales](https://github.com/pfmaggi/til/blob/master/android/polyglot.md) - 2016-12-05
@@ -54,7 +54,7 @@ warrant a full blog post.
 * [Bluetooth discovery on Android API level 23](https://github.com/pfmaggi/til/blob/master/android/api23-bluetooth.md) - 2017-03-15
 * [Xamarin Forms tips and tricks](https://github.com/pfmaggi/til/blob/master/android/xamarin-forms.md) - 2017-03-15
 * [Using Android local.properties file](https://github.com/pfmaggi/til/blob/master/android/local-properties.md) - 2017-04-14
-* [[Associate Android Developer certification exam](https://developers.google.com/training/certification/)](https://github.com/pfmaggi/til/blob/master/android/certification.md) - 2017-05-27
+* [Associate Android Developer certification exam](https://github.com/pfmaggi/til/blob/master/android/certification.md) - 2017-05-27
 * [Android Support Library archive](https://github.com/pfmaggi/til/blob/master/android/supportlib-archive.md) - 2017-06-11
 * [Google Play Services library](https://github.com/pfmaggi/til/blob/master/android/gms-library.md) - 2017-07-04
 * [SOTI allows to send and intent from the script](https://github.com/pfmaggi/til/blob/master/android/soti-intent.md) - 2017-07-27
@@ -149,7 +149,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2016-19 Pietro F. Maggi
+&copy; 2016-20 Pietro F. Maggi
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.

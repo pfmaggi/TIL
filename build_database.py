@@ -20,8 +20,8 @@ def created_changed_times(repo_path, ref="master"):
                 idx1 = filepath.find("{")
                 idx2 = filepath.find("=>")
                 idx3 = filepath.find("}")
-                old_path = filepath[0:idx1] + filepath[idx1+1:idx2-1]
-                filepath = filepath[0:idx1] + filepath[idx2+3:idx3]
+                old_path = filepath[0:idx1] + filepath[idx1+1:idx2-1] + filepath[idx3+1:]
+                filepath = filepath[0:idx1] + filepath[idx2+3:idx3] + filepath[idx3+1:]
                 created_changed_times[filepath] = {
                     "created": created_changed_times[old_path].get("created"),
                     "created_utc": created_changed_times[old_path].get("created_utc"),
